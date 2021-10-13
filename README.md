@@ -7,4 +7,4 @@ FasterRCNN with ResNet50 pretrained model and FastRCNN Predictor used for classi
 
 trained until got mAP value of 80%; 120 Images and Masks used for training and 50 for validation.
 
-5 videos and 5 Images used for demostration
+7 videos and 5 Images used for demostration
