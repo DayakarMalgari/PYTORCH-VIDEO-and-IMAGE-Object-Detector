@@ -10,6 +10,9 @@ trained until got mAP value of 80%; 120 Images and Masks used for training and 5
 7 videos and 5 Images used for demostration
 
 
+![Intersection-Counts-det](https://user-images.githubusercontent.com/88380811/138729683-ff2297c5-edba-411a-8f9e-4d1e3b3730c6.PNG)
+
+
 https://user-images.githubusercontent.com/88380811/138608069-57677aca-25c2-4e00-9e3c-7961af930c08.mp4
 
 
